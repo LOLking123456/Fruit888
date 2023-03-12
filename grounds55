@@ -1,7 +1,7 @@
 spawn(function()
         local Library =
             loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-        local Window = Library.CreateLib("NEW VIDEO OUT FOR UPDATED Fruit Battleground GUI", "Serpent")
+        local Window = Library.CreateLib("NEW VIDEO OUT FOR UPDATED FRUIT BG GUI", "Ocean")
 
         -- MAIN
         local Main = Window:NewTab("Main")
@@ -16,8 +16,8 @@ local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
 		Duration = 7, -- Set the duration to how much you want this to stay
 		-- More code in part 2
 	})
-    setclipboard("https://www.youtube.com/watch?v=ZC_3seP-QuE")
-	toclipboard("https://www.youtube.com/watch?v=ZC_3seP-QuE")
+    setclipboard("https://www.youtube.com/watch?v=YfCxRDqfAvQ")
+	toclipboard("https://www.youtube.com/watch?v=YfCxRDqfAvQ")
             end)
      end)       
 
